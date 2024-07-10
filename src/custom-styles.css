@@ -1,0 +1,10 @@
+/* Custom table header style */
+.custom-table-header th {
+  color: green !important;
+}
+
+/* Custom table row style */
+.custom-table-row td,
+.custom-table-row th {
+  color: white !important;
+}
